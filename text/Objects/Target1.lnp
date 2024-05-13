@@ -1,0 +1,7 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\public.obj",
+".\Objects\stepmotor.obj",
+".\Objects\key.obj" 
+TO ".\Objects\Target1" 
+PRINT(".\Listings\Target1.m51")
